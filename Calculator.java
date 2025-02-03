@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculator {
+public class Calculator {
     public static void main(String[] args) {
         // Declare variables to store input values, result, and operator
         double num1, num2, result;
